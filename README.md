@@ -2,7 +2,9 @@
 Quick and Dirty Webserver Finder
 
 This is a quick and dirty solution to find webservers using cURL.
-This script will curl a target file on ports 80, 8000, 8080, 8888, 443, & 8443.
+I made this in preparation for the OSCP exam so I could get a quick glimpse at the various webservers I can enumerate while my automated scanners are running.
+
+This script will curl an IP address or target file on ports 80, 8000, 8080, 8888, 443, & 8443.
 
 Example:
 ```bash
